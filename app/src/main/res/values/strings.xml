@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scheduler_test</string>
+    <string name="msg">HELLO WORLD!!!</string>
+    <string name="header">HEADER</string>
+</resources>
